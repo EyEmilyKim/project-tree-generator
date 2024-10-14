@@ -1,7 +1,7 @@
 {
   "name": "project-tree-generator",
-  "version": "0.0.1",
-  "description": "prototype developed at 2024-10-08 02:03",
+  "version": "1.0.0",
+  "description": "This Node.js script generates a directory tree structure for your project, allowing you to visualize the folder and file organization.",
   "main": "generateTree.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

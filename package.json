@@ -1,0 +1,12 @@
+{
+  "name": "project-tree-generator",
+  "version": "0.0.1",
+  "description": "prototype developed at 2024-10-08 02:03",
+  "main": "generateTree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "EyEmilyKim",
+  "license": "CC BY-NC"
+}
